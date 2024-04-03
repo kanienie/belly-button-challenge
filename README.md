@@ -19,7 +19,7 @@ To fulfill the task of retrieving test subject demographics and drawing a bar ch
 
 4. Bar Chart Creation: A trace was created using the sliced and reversed arrays, and a bar chart was plotted using Plotly.
 
-5.Bubble Chart Creation: The necessary data for the bubble chart, including otu_ids, sample_values, and otu_labels, was used to create a trace. The bubble chart was then plotted using Plotly.
+  5.Bubble Chart Creation: The necessary data for the bubble chart, including otu_ids, sample_values, and otu_labels, was used to create a trace. The bubble chart was then plotted using Plotly.
 
 By following these steps, the dashboard successfully presented the test subject demographics and visualized their samples through interactive bar and bubble charts.
 
