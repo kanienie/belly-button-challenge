@@ -23,7 +23,11 @@ To fulfill the task of retrieving test subject demographics and drawing a bar ch
 
 By following these steps, the dashboard successfully presented the test subject demographics and visualized their samples through interactive bar and bubble charts.
 
-
+Resources used:
+-Stack Overflow
+-Collegues
+-ChatGPT
+-Youtube
 
 
 
