@@ -15,7 +15,7 @@ function panelInfo(id) {
     })
 };
 
-//Plots
+//Bar Charts and Bubble chart Plots
 function Plots(id) {
     d3.json(url).then(function (data) {
         let sampleData = data;
